@@ -1,0 +1,2 @@
+# internalAC
+assaultcube internal cheat
